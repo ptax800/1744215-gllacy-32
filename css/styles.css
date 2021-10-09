@@ -2,99 +2,32 @@
   font-family: inter;
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/inter-400.woff2");
+  src: url("../fonts/inter-400.woff2") format("woff2");
+  src: url("../fonts/inter-400.woff2") format("woff");
   font-display: swap;
 }
 @font-face {
   font-family: inter;
   font-style: normal;
   font-weight: 700;
-  src: url("../fonts/inter-700.woff2");
+  src: url("../fonts/inter-700.woff2") format("woff2");
+  src: url("../fonts/inter-700.woff2") format("woff");
   font-display: swap;
 }
 @font-face {
   font-family: inter;
   font-style: normal;
   font-weight: 900;
-  src: url("../fonts/inter-900.woff2");
+  src: url("../fonts/inter-900.woff2") format("woff2");
+  src: url("../fonts/inter-900.woff2") format("woff");
   font-display: swap;
 }
-@font-face {
-  font-family: inter;
-  font-style: italic;
-  font-weight: 400;
-  src: url("../fonts/inter-400.woff2");
-  font-display: swap;
-}
-@font-face {
-  font-family: inter;
-  font-style: italic;
-  font-weight: 700;
-  src: url("../fonts/inter-700.woff2");
-  font-display: swap;
-}
-@font-face {
-  font-family: inter;
-  font-style: italic;
-  font-weight: 900;
-  src: url("../fonts/inter-900.woff2");
-  font-display: swap;
-}
+
 body{
 background-color: #FEAFC3;
 }
-.main-icecream{
-  width: 306px;
-  height: 507px;
-}
-.image-button-slider{
-  width: 38px;
-  height: 38px;
-}
-.icecream-slider{
-  width: 100px;
-  height: 150px;
-}
-.social-network{
-  width: 24px;
-  height: 24px;
-}
-.icecream-raspberries-image{
-  width: 181px;
-  height: 284px;
-}
-.ice-cream-present-image{
-  width: 181px;
-  height: 284px;
-}
-.ice-cream-variety-image{
-  width: 168px;
-  height: 168px;
-}
-.background-waffle{
-  width: 1170px;
-  height: 480px;
-}
 .small-icon-ice-cream-advantages{
-  width: 48px;
-  height: 48px;
   border-radius: 45%;
-}
-.background-icecream{
-  width: 570px;
-  height: 216px;
-}
-.background-subscribe-form{
-  width: 570px;
-  height: 216px;
-}
-.background-big-icecream{
-  width: 1170px;
-  height: 534px;
-}
-.background-3-icecreams{
-  width: 1170px;
-  height: 492px;
 }
 .ice-cream-variety-basket{
   width: 32px;
